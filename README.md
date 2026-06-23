@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 3/145 problems  
+**Solved:** 5/145 problems  
 **Last Updated:** Jun 23, 2026
 
 ## Solutions
@@ -13,3 +13,4 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions.git) | Jun 22, 2026 | - |
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
+| 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
