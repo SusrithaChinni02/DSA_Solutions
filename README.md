@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 8/145 problems  
+**Solved:** 9/145 problems  
 **Last Updated:** Jun 23, 2026
 
 ## Solutions
@@ -17,3 +17,4 @@
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
+| 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
