@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 7/145 problems  
+**Solved:** 8/145 problems  
 **Last Updated:** Jun 23, 2026
 
 ## Solutions
@@ -16,3 +16,4 @@
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
 | 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
+| 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
