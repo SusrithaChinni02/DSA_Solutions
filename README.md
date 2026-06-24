@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 11/145 problems  
+**Solved:** 12/145 problems  
 **Last Updated:** Jun 24, 2026
 
 ## Solutions
@@ -20,3 +20,4 @@
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 23, 2026 | - |
 | 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 24, 2026 | - |
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 24, 2026 | - |
+| 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 24, 2026 | - |
