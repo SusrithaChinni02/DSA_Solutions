@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 13/145 problems  
-**Last Updated:** Jun 24, 2026
+**Solved:** 14/145 problems  
+**Last Updated:** Jun 25, 2026
 
 ## Solutions
 
@@ -22,3 +22,4 @@
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 24, 2026 | - |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 24, 2026 | - |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 24, 2026 | - |
+| 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
