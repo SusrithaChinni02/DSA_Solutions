@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 15/145 problems  
+**Solved:** 16/145 problems  
 **Last Updated:** Jun 25, 2026
 
 ## Solutions
@@ -24,3 +24,4 @@
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 24, 2026 | - |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
+| 3 | Longest Substring Without Repeating Characters | Medium | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
