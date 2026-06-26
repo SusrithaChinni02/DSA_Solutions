@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 23/145 problems  
+**Solved:** 24/145 problems  
 **Last Updated:** Jun 26, 2026
 
 ## Solutions
@@ -29,6 +29,7 @@
 | 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
 | 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
+| 155 | Min Stack | Medium | [Link](https://leetcode.com/problems/min-stack/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
 | 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
 | 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
