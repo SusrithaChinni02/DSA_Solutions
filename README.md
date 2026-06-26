@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 19/145 problems  
-**Last Updated:** Jun 25, 2026
+**Solved:** 20/145 problems  
+**Last Updated:** Jun 26, 2026
 
 ## Solutions
 
@@ -28,3 +28,4 @@
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
 | 151 | Reverse Words in a String | Medium | [Link](https://leetcode.com/problems/reverse-words-in-a-string/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
 | 443 | String Compression | Medium | [Link](https://leetcode.com/problems/string-compression/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 25, 2026 | - |
+| 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
