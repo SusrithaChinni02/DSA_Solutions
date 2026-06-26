@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 22/145 problems  
+**Solved:** 23/145 problems  
 **Last Updated:** Jun 26, 2026
 
 ## Solutions
@@ -31,3 +31,4 @@
 | 392 | Is Subsequence | Easy | [Link](https://leetcode.com/problems/is-subsequence/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
 | 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
+| 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
