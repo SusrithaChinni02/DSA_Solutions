@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 24/145 problems  
-**Last Updated:** Jun 26, 2026
+**Solved:** 25/145 problems  
+**Last Updated:** Jun 27, 2026
 
 ## Solutions
 
@@ -33,3 +33,4 @@
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
 | 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
 | 739 | Daily Temperatures | Medium | [Link](https://leetcode.com/problems/daily-temperatures/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 26, 2026 | - |
+| 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 27, 2026 | - |
