@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 30/145 problems  
+**Solved:** 31/145 problems  
 **Last Updated:** Jun 28, 2026
 
 ## Solutions
@@ -39,3 +39,4 @@
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 28, 2026 | - |
 | 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 28, 2026 | - |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 28, 2026 | - |
+| 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://github.com/SusrithaChinni02/DSA_Solutions) | Jun 28, 2026 | - |
